@@ -1,4 +1,4 @@
-## Bienvenido/Be Welcome/Seja bem-vindo(a)! 👋
+## Bienvenido / Be Welcome / Seja bem-vindo(a) ! 👋
 
 <img align="right" alt="Um gato safado tomando banho" height="280" src="https://cdni.iconscout.com/illustration/premium/thumb/cat-sitting-at-desk-illustration-download-in-svg-png-gif-file-formats--on-laptop-developer-licking-paw-miscellaneous-pack-people-illustrations-4395247.png">
 
