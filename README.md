@@ -9,5 +9,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moises_zera/)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white)](https://letterboxd.com/fmoises/)
 
-### Acompanhe meu progresso 🌱
+## Acompanhe meu progresso 🌱
 ![fmcamargo's Stats](https://github-readme-stats.vercel.app/api?username=fmcamargo&theme=dark&show_icons=true&hide_border=true&count_private=true)
