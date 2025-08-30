@@ -1,6 +1,7 @@
-<img align="left" alt="Um gato safado tomando banho" height="280" src="https://cdni.iconscout.com/illustration/premium/thumb/cat-sitting-at-desk-illustration-download-in-svg-png-gif-file-formats--on-laptop-developer-licking-paw-miscellaneous-pack-people-illustrations-4395247.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=1A9908&center=true&vCenter=true&random=true&width=480&height=60&lines=%E6%82%A8%E5%A5%BD+(n%C3%ADn+h%C7%8Eo);hello;ol%C3%A1;hola;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+(anyeonghaseyo);bonjour;salve;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(namaste);%CE%A7%CE%B1%CE%AF%CF%81%CE%B5%CF%84%CE%B5+(herete);%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+(konnichiwa);%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5+(zdravstvuyte);%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B+(marhabaan);goeie+dag;kamusta;guten+tag;%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5+(sawatdee);o%2F)](https://git.io/typing-svg)
+
+<img align="left" alt="Um gato safado tomando banho" height="280" src="https://cdni.iconscout.com/illustration/premium/thumb/cat-sitting-at-desk-illustration-download-in-svg-png-gif-file-formats--on-laptop-developer-licking-paw-miscellaneous-pack-people-illustrations-4395247.png">
 
 <p align="justify">Me chamo Fábio, nascido em 1994 <i>(o melhor ano do cinema)</i>, TDAH, curitibano e casado com a Amanda. Atualmente trabalho como analista comercial e me formando em Gestão de T.I, no qual me dedico ao desenvolvimento front-end e estudos em Python. Pai de três pets, que são dois gatos <i>(Nicodemos e Nice)</i> e um shih tzu <i>(Jackson)</i>. Sou fissurado em metal, cozinha, música e cinema.</p>
 
