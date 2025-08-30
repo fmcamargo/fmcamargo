@@ -3,8 +3,8 @@
 
 <img align="left" alt="Um gato safado tomando banho" height="180" src="https://cdni.iconscout.com/illustration/premium/thumb/cat-sitting-at-desk-illustration-download-in-svg-png-gif-file-formats--on-laptop-developer-licking-paw-miscellaneous-pack-people-illustrations-4395247.png">
 
-<p align="justify">Me chamo Fábio, nascido em 1994 <i>(o melhor ano do cinema)</i>, TDAH, curitibano e casado com a Amanda. Atualmente trabalho como analista comercial e me formando em Gestão de T.I, no qual me dedico ao desenvolvimento front-end e estudos em Python. Pai de três pets, que são dois gatos <i>(Nicodemos e Nice)</i> e um shih tzu <i>(Jackson)</i>. Sou fissurado em metal, cozinha, música e cinema.</p>
-
+<p align="left">Me chamo Fábio, nascido em 1994 <i>(o melhor ano do cinema)</i>, TDAH, curitibano e casado com a Amanda. Pai de três pets, sendo dois gatos, o Nicodemos e a Nice, e um shi-tzu, o Jackson. Trabalho como analista comercial e estou me formando em Gestão de T.I e busco uma nova carreira. Estou me dedicando ao estudo de Pyhton para IA, análise e banco de dados, além de me interessar por desenvolvimento web, boas práticas e novas tecnologias. Sou fissurado em vários tipos de metal e gosto muito de cozinhar.</p>
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fabiomcamargo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moises_zera/)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white)](https://letterboxd.com/fmoises/)
